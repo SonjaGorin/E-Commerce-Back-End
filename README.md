@@ -25,7 +25,7 @@ Preview:
 
 Video walk-through:  
 
-[E-Commerce-Back-End-Video]()
+[E-Commerce-Back-End-Video](https://drive.google.com/file/d/1pDKC-oWrJRiQBsFAm3d5HACnVZdl-EI4/view)
 
 ## License
 Please refer to the LICENSE in the repo.
